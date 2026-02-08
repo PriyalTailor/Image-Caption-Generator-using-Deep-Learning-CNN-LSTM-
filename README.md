@@ -1,6 +1,8 @@
 Image Caption Generation using CNN–LSTM
 
 This project implements an end-to-end deep learning model for automatic image caption generation, combining computer vision and natural language processing techniques.
+<img width="2752" height="1316" alt="ImageCaptionGenerator" src="https://github.com/user-attachments/assets/0b5230c6-88a9-4408-ab95-60bd750f6d12" />
+
 
 Overview
 
